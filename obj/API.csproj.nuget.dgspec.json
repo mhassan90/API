@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\Projects\\DatingApp\\API\\API.csproj",
         "projectName": "API",
         "projectPath": "D:\\Projects\\DatingApp\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Mido\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\mhass\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mido\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mhass\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://primeae.pkgs.visualstudio.com/_packaging/QFormFeeds/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -74,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
