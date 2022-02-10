@@ -77,3 +77,5 @@ D:\Projects\DatingApp\API\obj\Debug\net6.0\API.dll
 D:\Projects\DatingApp\API\obj\Debug\net6.0\ref\API.dll
 D:\Projects\DatingApp\API\obj\Debug\net6.0\API.pdb
 D:\Projects\DatingApp\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\Projects\DatingApp\API\bin\Debug\net6.0\Humanizer.dll
+D:\Projects\DatingApp\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
