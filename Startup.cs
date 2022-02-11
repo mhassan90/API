@@ -36,6 +36,13 @@ namespace API
 
             });
 
+            //services.Configure<ApiBehaviorOptions>(options =>
+            //{
+            //    options.SuppressConsumesConstraintForFormFileParameters = true;
+            //    options.SuppressInferBindingSourcesForParameters = true;
+            //    options.SuppressModelStateInvalidFilter = true;
+            //});
+
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
